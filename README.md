@@ -1,4 +1,4 @@
-# StartToImpact: Counter JavaScript 
+# StartToImpact: [Counter JavaScript](https://limharu-counter-javascript.netlify.app)
 Questo progetto è un semplice esempio di come creare un contatore utilizzando JavaScript e HTML. Il contatore può essere incrementato cliccando su un pulsante.
 
 <p align="center">
