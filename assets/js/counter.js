@@ -9,9 +9,7 @@ function setUpEvents() {
   });
   
   btnDecrement.addEventListener('click', () => {
-    if (counterValue.innerHTML > 0) {
-      counterValue.innerHTML--;
-    }
+    counterValue.innerHTML--;
   });
   
   btnReset.addEventListener('click', () => {
